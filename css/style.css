@@ -1,0 +1,44 @@
+body{
+    font: 20px Arial, sans-serif;
+}
+
+/* altera propriedas da barra de navegação */
+.navbar{
+    background-color: lightgray;
+}
+
+/* espaçamento padrão para margens */
+.margin{
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+
+/* seção "quem somos" */
+.quem_somos{
+    background-color: #141414;
+    color: white;
+}
+
+.foto-time{
+    padding: 20px 0;
+}
+
+/* seção "parceiros" */
+.parceiros{
+    background-color: lightgray;
+}
+
+/* seção "serviços" */
+.servicos{
+    background-color: #141414;
+    color: white;
+}
+
+/* rodapé */
+.bg-footer{
+    background-color: lightgray;
+}
+
+footer i{
+    margin-right: 8px;
+}
